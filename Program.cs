@@ -6,6 +6,6 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Second Change!");
-		Console.WriteLine("My Own Change(Paule1511)");
+		Console.WriteLine("Everyone should Drive a Honda Civic");
     }
 }
